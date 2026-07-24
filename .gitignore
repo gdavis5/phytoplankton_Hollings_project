@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+/peak_graphs
+/Rate_of_change_graphs
+/Smoother_testing
+/Start_end_graphs
+/test_graphs
+/Threshold Rate of Change Graphs
+/5day_graphs
+/6day_graphs
+/Graphs
+/5day_med_graphs
+/6day_med_graphs
+/7day_graphs
+/5day_ROC_graphs
+.Rhistory
