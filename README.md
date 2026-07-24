@@ -1,4 +1,3 @@
-# phytoplankton_Hollings_project
-NEFSC Hollings project phytoplankton phenology
-I want to include all of my code for my phytoplankton phenology Hollings project here.
-Hi my name is Grace and I am an intern at the NEFSC. 
+# Phytoplankton Phenology Hollings Project
+\n This project focuses on defining phytoplankton blooms for the Northeast US Continental Shelf and quantifying bloom metrics.
+\nThis project was done as a part of National Marine Fisheries Service Northeast Fisheries Science Center
